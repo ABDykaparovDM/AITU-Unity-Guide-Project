@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Project/Scenes/RoomCenter.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Project/Scenes/RoomDown.unity
+    guid: 95c1b86f09fddcf4d8abc92f880086b4
+  - enabled: 1
+    path: Assets/Project/Scenes/RoomLeft.unity
+    guid: e8a687cbadc2c5c44b8ee083a486cd93
+  - enabled: 1
+    path: Assets/Project/Scenes/RoomRIght.unity
+    guid: 4800ea13c85747249a7d4e95b7d7dcce
+  - enabled: 1
+    path: Assets/Project/Scenes/RoomUp.unity
+    guid: 7f836ec0db16aac4b85228282881fc28
+  m_configObjects: {}
